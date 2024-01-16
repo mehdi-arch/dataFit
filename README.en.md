@@ -3,7 +3,7 @@
 <a href="./README.en.md"><img alt="en" src="https://img.shields.io/badge/lang-en-red.svg"/></a>
 <a href="./README.md"><img alt="fr" src="https://img.shields.io/badge/land-fr-yellow.svg"/></a>
 
-A C++ library designed for efficient regression calculations and k-means clustering.
+A C++ library designed for efficient regression calculations.
 
 ## System Requirements
 

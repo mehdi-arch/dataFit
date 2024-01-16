@@ -3,7 +3,7 @@
 <a href="./README.en.md"><img alt="en" src="https://img.shields.io/badge/lang-en-red.svg"/></a>
 <a href="./README.md"><img alt="fr" src="https://img.shields.io/badge/land-fr-yellow.svg"/></a>
 
-Une librairie C++ utile pour calculer des regressions rapidement ou utiliser un k-means. 
+Une librairie C++ utile pour calculer des regressions rapidement. 
 
 # Requis système
 
