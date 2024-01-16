@@ -1,0 +1,59 @@
+/**
+@mainpage
+@author Mehdi El Moussaoui
+@version v1.0
+
+# Introduction
+
+Data-Fit est une API permettant de faire des régressions (linéaire, polynomiale, logistique, ...).
+
+# Requis système
+
+Le projet à été développé sur cette configuration:
+- Compilateur
+```
+G++
+Apple clang version 14.0.0 (clang-1400.0.29.202)
+Target: x86_64-apple-darwin21.6.0
+Thread model: posix
+```
+- Makefile
+```
+GNU Make 3.81
+```
+-Version de C++ utilisée:
+```
+C++17
+```
+# Structure
+- Répertoire **bin/** contenant l'executable des fichiers issus de **test/** (à créer).
+- Répertoire **build/** tout les fichiers objets nécessaire à la compilation de l'executable (crée par le makefile).
+- Répertoire **docs/** contenant la documentation.
+- Répertoire **includes/** contenant les fichiers headers de toutes les classes.
+- Répertoire **src/** contenant les implémentation des méthodes des classes.
+- Répertoire **test/** contenant des fichiers permettant de tester les fonctionnalités (à créer).
+- Fichier **makefile** makefile permettant de compiler, nettoyer, générer la documentation, ect.
+- Fichier **README.md** fichier README pour github en français.
+- Fichier **README.en.md** fichier README pour github en anglais.
+
+# Installation
+
+Pour installer la librairie:
+- Extraire le fichier **dataFit.zip**.
+- Inclure le répertoire **dataFit/** dans votre répertoire librairie de votre projet.
+
+Pas de librairie externes ont été utilisées.
+
+# Exemples d'utilisations
+
+# Futures améliorations
+
+- Multi-threading des algorithmes
+- Ajout de fonctionnalités
+- Ajout d'autres branches pour programmer de manière plus avancée (manipulation des objets plus sensible, ect)
+- Affichage sur un GUI
+
+# Contact
+
+Si vous avez des questions, veuillez contacter l'auteur à l'adresse: me.elmoussaoui@outlook.fr.
+*/
